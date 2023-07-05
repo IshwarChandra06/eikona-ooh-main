@@ -1,0 +1,5 @@
+
+.v-data-table > .v-data-table__wrapper > table > thead > tr:last-child > th {
+    font-size: 14px !important;
+
+}
